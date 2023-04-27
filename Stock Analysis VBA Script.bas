@@ -123,5 +123,6 @@ ws.Range("Q1") = "Value"
 
     Next ws
 
-
 End Sub
+
+' Any similarities can be attributed this code adopting elements of a skeleton code provided to the class.
